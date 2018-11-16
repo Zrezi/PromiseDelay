@@ -1,0 +1,27 @@
+{
+  "name": "promise-postpone",
+  "version": "1.0.0",
+  "description": "Postpone Promises from resolving until after a specific number of milliseconds.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zrezi/promise-postpone.git"
+  },
+  "keywords": [
+    "Promise",
+    "postpone",
+    "delay"
+  ],
+  "author": "Zach Reznicek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zrezi/promise-postpone/issues"
+  },
+  "homepage": "https://github.com/Zrezi/promise-postpone#readme"
+}
